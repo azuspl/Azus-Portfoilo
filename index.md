@@ -4,7 +4,7 @@
 ### Hello!
 My name is Patrycjusz, 22 year old boy, who's creating C#, GLua and Lua things, i love explore new things and learn them.
 
-#  My Projects
+#  My Projects:
 
 # C# Destruction Derby FiveM GameMode
 
@@ -14,7 +14,7 @@ This gamemode was based on DD gamemode from MTA This gamemode has nitro, repair 
 ![Image](https://i.imgur.com/nlQMM7l.png)
 ![Image](https://i.imgur.com/BEEPZQp.png)
 
-**C# Zombie Survival FiveM**
+# C# Zombie Survival FiveM
 Small edited project on FiveM in 2018 the mode was made for on the pattern of an abandoned city overrun by zombies.
 ![Image](https://i.imgur.com/jsvw7pt.png)
 
