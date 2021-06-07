@@ -3,6 +3,8 @@
 
 
 **Hello!**
+
+
 My name is Patrycjusz, 22 year old boy, who's creating C#, GLua and Lua things, i love explore new things and learn them.
 
 
