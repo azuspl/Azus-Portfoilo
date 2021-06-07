@@ -1,10 +1,7 @@
 ![Image](https://i.imgur.com/NQaRMsV.png)
 
 
-
-**Hello!**
-
-
+### Hello!
 My name is Patrycjusz, 22 year old boy, who's creating C#, GLua and Lua things, i love explore new things and learn them.
 
 My Projects
@@ -13,7 +10,7 @@ My Projects
 
 This gamemode was based on DD gamemode from MTA This gamemode has nitro, repair pickups, custom maps, round systems, randomize cars and their types. To win, player must destruct other players cars or push them to the water.
 
-### Header 3
+
         
 ```markdown
 Syntax highlighted code block
