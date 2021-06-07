@@ -6,9 +6,12 @@ My name is Patrycjusz, 22 year old boy, who's creating C#, GLua and Lua things, 
 
 #  My Projects
 
-**Destruction Derby FiveM GameMode**
+**Destruction Derby FiveM GameMode C#**
 
 This gamemode was based on DD gamemode from MTA This gamemode has nitro, repair pickups, custom maps, round systems, randomize cars and their types. To win, player must destruct other players cars or push them to the water.
+
+
+
 
 
         
