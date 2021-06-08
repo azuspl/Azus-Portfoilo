@@ -42,7 +42,7 @@ My biggest project on Garry's Mod, spended 5 years on creating my version of thi
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a9cN7CMMnjk/0.jpg)](https://www.youtube.com/watch?v=a9cN7CMMnjk)
 
 
-### My Old script for scripted entity Helicopter for Breach Gamemode
+### My Old script for scripted entity Helicopter for my old version Breach Gamemode
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Lr3kiFLF-x8/0.jpg)](https://www.youtube.com/watch?v=Lr3kiFLF-x8)
 
