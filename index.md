@@ -70,6 +70,9 @@ Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=975089
 
 # LUA XFace: Random Face, Scale and Color 2019
 
+I always wanted for some gamemodes like Murder to have random scale, color and face pose so for that i created this addon, useable on sandbox too
+Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=1729291338
+
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235416366/169857EEB21E87133B63ECB6B44BEBAFC286688A/)
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235432656/4168A3C051ECC7D765715C2B3E23464FF0818761/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235432163/D4BE8A3789879C4DE3EED5ECBA6CCC807D11452F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
