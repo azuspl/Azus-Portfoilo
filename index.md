@@ -50,10 +50,18 @@ My biggest project on Garry's Mod, spended 5 years on creating my own version of
 
 My other project, murder was my first gamemode i ever played in Garry's Mod so in 2019 i remastered it
 Added new roles, mechanics like checks for loot, new Q menu with new options, players facepose and scales etc..
+Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=1874231375
 
 ![Image](https://i.imgur.com/gNkvcb1.jpg)
 ![Image](https://i.imgur.com/87ugdC5.jpg)
 ![Image](https://i.imgur.com/01ZRd5t.jpg)
 ![Image]()
 ![Image]()
+
+# LUA Mystery Nightmare Gamemode
+
+That was my first ever created gamemode
+I love horror games and i like create multiplayer horror gamemodes, that's why i in 2016/2017 created Mystery Nightmare
+Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=975089708
+ 
 
