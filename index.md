@@ -86,7 +86,7 @@ I always wanted for some gamemodes like Murder to have random scale, color and f
 
 I was started developing on StrefaGier in 2014 and ended in 2020
 StrefaGier was one of the biggest Polish community in years 2015-2019 where i have contacts with YouTubers which have 800 000 - 1,85Mln and they promoted additionally our community.
-I hosted, edit all possible workshop gamemodes for YouTubers to their films + hosted my servers like: DeathRun (i love deathrun!), Murder, TTT extended, my gamemodes, Prop-Hunt, Hide n Seek and more, more other gamemodes
+I hosted, edit all possible workshop gamemodes for YouTubers to their films + hosted my servers like: DeathRun (i love deathrun!), JailBreak, Murder, TTT extended, my gamemodes, Prop-Hunt, Hide n Seek and more, more other gamemodes
 
 <a href="https://strefagier.com.pl/">Forum</a>
 
