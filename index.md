@@ -91,3 +91,7 @@ I hosted, edit all possible workshop gamemodes for YouTubers to their films + ho
 <a href="https://strefagier.com.pl/">Forum</a>
 
 # LUA/C# NexusProject Owner/DEV 2020 - 2021
+
+In 2020 i wanted to create something more, something big, to create community where players can get to know other players and bond with them for years like I did a long time ago, that's why i created NexusProject. I have contacts with Polish Youtubers like: Bladii, Mandzio, Chucken, Admiros, Plaga and we all waiting for the premiere of sbox where they can promote this game in Poland like they did it in 2016-2018 where i hosted them a servers and gamemodes.
+
+We are now expanding the NexusProject network with people from modelling, C#, SFM animations. With these people we can do something more than normal gamemode.
