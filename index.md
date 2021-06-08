@@ -79,4 +79,4 @@ Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=172929
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235431033/411A97A2C1920B079DEE156A1F1D295F43AD497F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235431532/B4BF1689923C7BF4EEFCB3BD9A1604A73934F5A6/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
-<a href="/pages-themes/hacker/blob/master/another-page.html">Link to another page</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1729291338">Check it out here</a>
