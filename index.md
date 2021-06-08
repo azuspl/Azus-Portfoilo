@@ -2,7 +2,8 @@
 
 
 ### Hello!
-My name is Patrycjusz, 22 year old boy, who's creating C#, GLua and Lua things, i love explore new things and learn them.
+
+My name is Patrycjusz, I'm passionate .Net, Photoshop, FL Studio and I'm coding in GLua for 7 years now, meanwhile I also had a break from gmod and then I did a lot of cool things in C# (mostly in FiveM, but also some applications in Xamarin). Since 2015 I'm hosting servers for most popular youtubers in Poland and from 2 years, I'm owner of my garry`s mod servers network.
 
  Discord: Azus#5528
 
@@ -26,7 +27,7 @@ Small edited project on FiveM in 2018 the mode was made for on the pattern of an
 
 # LUA SCP Breach 3.2 Garry's Mod 2017 - 2021
 
-My biggest project on Garry's Mod, spended 5 years on creating my version of this Gamemode. Gamemode has build-in Cutscenes, new mechanics, abilities for SCP'S and classes, main menu with SFM animations, players animations and more more things. Check it out! Click to see more screenshots from my gamemode. Gamemode size is 10GB, wow!
+My biggest project on Garry's Mod, spended 5 years on creating my version of this Gamemode. Gamemode has build-in Cutscenes, new mechanics, abilities for SCP'S and classes, main menu with SFM animations, players animations and more more things.
 
 One in-game cutscene which is 30 seconds took me 1 month to script in Lua (I hate do something like In-Game Cutscenes in Lua. Awful pain, but looks really cool on the end), add sounds (for this big boss scene i used +80 sounds), particles etc.. And players loving it and they can't believe it's still Garry's Mod
 
