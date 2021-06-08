@@ -57,7 +57,7 @@ One in-game cutscene which is 30 seconds took me 1 month to script in Lua (I hat
 
 # LUA Murder: Remaster Edition 2018/2019
 
-My other project, murder was my first gamemode i ever played in Garry’s Mod, so in 2019 I've remastered it by adding new roles, features like checks for loot, new Q menu with new options, player faceposing, scales and etc..
+My other project, murder was my first gamemode I ever played in Garry’s Mod, so in 2019 I've remastered it by adding new roles, features like checks for loot, new Q menu with new options, player faceposing, scales and etc..
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1874231375">Check it out here</a>
 
@@ -69,7 +69,7 @@ My other project, murder was my first gamemode i ever played in Garry’s Mod, s
 # LUA Mystery Nightmare Gamemode 2017
 
 That was my first ever created gamemode
-I love horror games and i like create multiplayer horror gamemodes, that's why i in 2016/2017 created Mystery Nightmare
+I love horror games and I like create multiplayer horror gamemodes, that's why I in 2016/2017 created Mystery Nightmare
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=975089708">Check it out here</a>
  
@@ -80,7 +80,7 @@ I love horror games and i like create multiplayer horror gamemodes, that's why i
 
 # LUA XFace: Random Face, Scale and Color 2019
 
-I always wanted for some gamemodes like Murder to have random scale, color and face pose so for that i created this addon, useable on sandbox too
+I always wanted for some gamemodes like Murder to have random scale, color and face pose so for that I created this addon, useable on sandbox too
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1729291338">Check it out here</a>
 
