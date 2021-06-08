@@ -13,7 +13,7 @@ My name is Patrycjusz, I'm passionate .Net, Photoshop, FL Studio and I'm coding 
 
 # C# Destruction Derby FiveM GameMode
 
-This gamemode was based on DD gamemode from MTA This gamemode has nitro, repair pickups, custom maps, round systems, randomize cars and their types. To win, player must destruct other players cars or push them to the water.
+This gamemode was based on DD gamemode from MTA. This gamemode has nitro, repair pickups, custom maps, round systems, randomize cars and their types. To win, player must destruct other players cars or push them to the water.
 
 ![Image](https://i.imgur.com/4nEw59V.png)
 ![Image](https://i.imgur.com/nlQMM7l.png)
