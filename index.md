@@ -68,3 +68,6 @@ Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=975089
 ![Image](https://i.imgur.com/CwNMSQX.jpg)
 ![Image](https://i.imgur.com/mmS6uZG.jpg)
 
+# LUA XFace: Random Face, Scale and Color
+
+![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235416366/169857EEB21E87133B63ECB6B44BEBAFC286688A/)
