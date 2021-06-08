@@ -4,7 +4,7 @@
 ### Hello!
 
 My name is Patrycjusz, I'm passionate .Net, Photoshop, FL Studio and I'm coding in GLua for 7 years now, meanwhile I also had a break from gmod and then I did a lot of cool things in C# (mostly in FiveM, but also some applications in Xamarin). Since 2015 I'm hosting servers for most popular youtubers in Poland and from 2 years, I'm owner of my garry`s mod servers network.
-
+ 
  Discord: Azus#5528
 
  Steam Profile: <a href="https://steamcommunity.com/id/azuspl">Click here</a>
