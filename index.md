@@ -5,6 +5,7 @@
 My name is Patrycjusz, 22 year old boy, who's creating C#, GLua and Lua things, i love explore new things and learn them.
 
 My Discord: Azus#5528
+
 My Steam Profile: <a href="https://steamcommunity.com/id/azuspl">Click here</a>
 
 #  My Projects:
