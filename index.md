@@ -24,6 +24,8 @@ Small edited project on FiveM in 2018 the mode was made for on the pattern of an
 
 My biggest project on Garry's Mod, spended 5 years on creating my version of this Gamemode. Gamemode has build-in Cutscenes, new mechanics, abilities for SCP'S and classes, main menu with SFM animations, players animations and more more things. Check it out! Click to see more screenshots from my gamemode. Gamemode size is 10GB, wow!
 
+One in-game cutscene which is 30 seconds took me 1 month to script in Lua (I hate do something like In-Game Cutscenes in Lua. Awful pain, but looks really cool on the end), add sounds (for this big boss scene i used +80 sounds), particles etc..
+
 ### tip: white glowing hud icons = screens from new version of this gamemode
 
 ![Image](https://i.imgur.com/vYTxjn3.png)
