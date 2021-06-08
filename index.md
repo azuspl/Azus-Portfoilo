@@ -50,7 +50,7 @@ My biggest project on Garry's Mod, spended 5 years on creating my version of thi
 
 My other project, murder was my first gamemode i ever played in Garry's Mod so in 2019 i remastered it
 Added new roles, mechanics like checks for loot, new Q menu with new options, players facepose and scales etc..
-Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=1874231375
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1874231375">Check it out here</a>
 
 ![Image](https://i.imgur.com/gNkvcb1.jpg)
 ![Image](https://i.imgur.com/87ugdC5.jpg)
@@ -61,7 +61,7 @@ Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=187423
 
 That was my first ever created gamemode
 I love horror games and i like create multiplayer horror gamemodes, that's why i in 2016/2017 created Mystery Nightmare
-Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=975089708
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=975089708">Check it out here</a>
  
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/841461755408263755/CD90253EBF8E6AA6DF85D17FFB82BCF227B9D7ED/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 ![Image](https://i.imgur.com/3KLw1OQ.jpg)
@@ -71,7 +71,7 @@ Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=975089
 # LUA XFace: Random Face, Scale and Color 2019
 
 I always wanted for some gamemodes like Murder to have random scale, color and face pose so for that i created this addon, useable on sandbox too
-Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=1729291338
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1729291338">Check it out here</a>
 
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235416366/169857EEB21E87133B63ECB6B44BEBAFC286688A/)
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235432656/4168A3C051ECC7D765715C2B3E23464FF0818761/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
@@ -79,4 +79,4 @@ Check it out here: https://steamcommunity.com/sharedfiles/filedetails/?id=172929
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235431033/411A97A2C1920B079DEE156A1F1D295F43AD497F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 ![Image](https://steamuserimages-a.akamaihd.net/ugc/809996090235431532/B4BF1689923C7BF4EEFCB3BD9A1604A73934F5A6/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1729291338">Check it out here</a>
+
