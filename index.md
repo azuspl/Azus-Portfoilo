@@ -46,7 +46,14 @@ My biggest project on Garry's Mod, spended 5 years on creating my own version of
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Lr3kiFLF-x8/0.jpg)](https://www.youtube.com/watch?v=Lr3kiFLF-x8)
 
+# LUA Murder: Remaster Edition
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/a9cN7CMMnjk?autoplay=1&mute=1%22%3E</iframe>
+My other project, murder was my first gamemode i ever played in Garry's Mod so in 2019 i remastered it
+Added new roles, mechanics like checks for loot, new Q menu with new options, players facepose and scales etc..
 
+![Image](https://i.imgur.com/gNkvcb1.jpg)
+![Image](https://i.imgur.com/87ugdC5.jpg)
+![Image](https://i.imgur.com/01ZRd5t.jpg)
+![Image]()
+![Image]()
 
