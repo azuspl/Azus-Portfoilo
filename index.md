@@ -28,6 +28,7 @@ My biggest project on Garry's Mod, spended 5 years on creating my own version of
 [Link](https://www.youtube.com/watch?v=Ivcr9aIbnn4 )  
 [Link](https://www.youtube.com/watch?v=IPfoDmZvsBc )  
 [Link](https://www.youtube.com/watch?v=a9cN7CMMnjk)  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a9cN7CMMnjk/0.jpg)](https://www.youtube.com/watch?v=a9cN7CMMnjk)
 ```markdown
 Syntax highlighted code block
 
