@@ -28,7 +28,7 @@ My biggest project on Garry's Mod, spended 5 years on creating my version of thi
 
 ![Image](https://i.imgur.com/vYTxjn3.png)
 ![Image](https://i.imgur.com/8dUlv50.png)
-![Image](https://i.imgur.com/MtFNjhP.png)
+![Image](https://i.imgur.com/hVE8yhr.png)
 ![Image](https://i.imgur.com/ycQTL2H.png)
 ![Image](https://i.imgur.com/SEF5cXx.png)
 ![Image](https://i.imgur.com/PPxiDAt.png)
