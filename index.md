@@ -25,7 +25,7 @@ Small edited project on FiveM in 2018 the mode was made for on the pattern of an
 My biggest project on Garry's Mod, spended 5 years on creating my own version of this Gamemode Gamemode has build-in Cutscenes, new mechanics, abilities for SCP'S and classes, main menu with SFM animations, players animations and more more things. Check it out! Click to see more screenshots from my gamemode. Here's some links to my test videos from this gamemode:
 
 
-# Check out here's some videos from testing cutscenes, mechanics and gameplay
+# Check out here's some videos from testing cutscenes, mechanics and gameplay (some of then can be from old version of this gamemode)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mn7mjCIGdTw/0.jpg)](https://www.youtube.com/watch?v=mn7mjCIGdTw)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ivcr9aIbnn4/0.jpg)](https://www.youtube.com/watch?v=Ivcr9aIbnn4)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IPfoDmZvsBc/0.jpg)](https://www.youtube.com/watch?v=IPfoDmZvsBc)
