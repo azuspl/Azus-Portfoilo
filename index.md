@@ -20,16 +20,16 @@ This gamemode was based on DD gamemode from MTA. This gamemode has nitro, repair
 ![Image](https://i.imgur.com/BEEPZQp.png)
 
 # C# Zombie Survival FiveM
-Small edited project on FiveM in 2018 the mode was made for on the pattern of an abandoned city overrun by zombies.
+Another gamemode for FiveM this time a little smaller, main theme was centered around abandoned city overrun by zombies.
 ![Image](https://i.imgur.com/jsvw7pt.png)
 ![Image](https://i.imgur.com/7QmfShI.png)
 
 
 # LUA SCP Breach 3.2 Garry's Mod 2017 - 2021
 
-My biggest project on Garry's Mod, spent 5 years on creating my version of this Gamemode. Gamemode has build-in Cutscenes, new mechanics, abilities for SCP'S and classes, main menu with SFM animations, players animations and more more things.
+My biggest project while working with Garry’s Mod, spent 5 years on creating my version of Breach Gamemode. This includes built-in Cutscenes, new mechanics, abilities for SCP’s and classes, main menu with SFM animations, players animations and even more hidden features.
 
-One in-game cutscene which is 30 seconds took me 1 month to script in Lua (I hate do something like In-Game Cutscenes in Lua. Awful pain, but looks really cool on the end), add sounds (for this big boss scene i used +80 sounds), particles etc.. And players loving it and they can't believe it's still Garry's Mod
+One in-game cutscene which is 30 seconds took me 1 month to script in Lua (I hate do something like In-Game Cutscenes in Lua. Awfully painful to do, but looks really cool on the final result), add sounds (for this big boss scene I've used over 80 sounds), particles etc.. Majority of players were concerned if that still was Garry's Mod.
 
 ### tip: white glowing hud icons = screens from new version of this gamemode
 
@@ -43,7 +43,7 @@ One in-game cutscene which is 30 seconds took me 1 month to script in Lua (I hat
 
 
 
-## Check out here's some videos from testing cutscenes, mechanics and gameplay (some of then can be from old version of this gamemode)
+## Check out here are some videos from testing cutscenes, mechanics and gameplay (some of them can be from older version of this gamemode)
 ### Click on screen to open youtube video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mn7mjCIGdTw/0.jpg)](https://www.youtube.com/watch?v=mn7mjCIGdTw)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ivcr9aIbnn4/0.jpg)](https://www.youtube.com/watch?v=Ivcr9aIbnn4)
@@ -51,14 +51,13 @@ One in-game cutscene which is 30 seconds took me 1 month to script in Lua (I hat
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a9cN7CMMnjk/0.jpg)](https://www.youtube.com/watch?v=a9cN7CMMnjk)
 
 
-### My Old script for scripted entity Helicopter for my old version Breach Gamemode
+### My old script for scripted entity Helicopter for former version of Breach Gamemode
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Lr3kiFLF-x8/0.jpg)](https://www.youtube.com/watch?v=Lr3kiFLF-x8)
 
 # LUA Murder: Remaster Edition 2018/2019
 
-My other project, murder was my first gamemode i ever played in Garry's Mod so in 2019 i remastered it
-Added new roles, mechanics like checks for loot, new Q menu with new options, players facepose and scales etc..
+My other project, murder was my first gamemode i ever played in Garry’s Mod, so in 2019 I've remastered it by adding new roles, features like checks for loot, new Q menu with new options, player faceposing, scales and etc..
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1874231375">Check it out here</a>
 
@@ -93,14 +92,12 @@ I always wanted for some gamemodes like Murder to have random scale, color and f
 
 # LUA/C# StrefaGier DEV 2014 - 2020
 
-I was started developing on StrefaGier in 2014 and ended in 2020
-StrefaGier was one of the biggest Polish community in years 2015-2019 where i have contacts with YouTubers which have 800 000 - 1,85Mln and they promoted additionally our community.
-I hosted, edit all possible workshop gamemodes for YouTubers to their films + hosted my servers like: DeathRun, JailBreak, Murder, TTT extended, my gamemodes, Prop-Hunt, Hide n Seek and more, more other gamemodes
+I started developing for StrefaGier in 2014 and ended in 2020. StrefaGier was one of the biggest Polish communities in years 2015-2019, this is also where I've got to know YouTubers with over 800k - 1,85M subs and they in return started promoting our community. I'am the person who hosted all of their Garry's Mod servers when they needed them for their videos. Simultaneously hosted multiple community servers on gamemodes like: DeathRun, JailBreak, Murder, TTT extended, my gamemodes, Prop-Hunt, Hide n Seek and more, more other gamemodes
 
 <a href="https://strefagier.com.pl/">Forum</a>
 
 # LUA/C# NexusProject Owner/DEV 2020 - 2021
 
-In 2020 i wanted to create something more, something big, to create community where players can get to know other players and bond with them for years like I did a long time ago, that's why i created NexusProject. I have contacts with Polish Youtubers like: Bladii, Mandzio, Chucken, Admiros, Plaga and we all waiting for the premiere of sbox where they can promote this game in Poland like they did it in 2016-2018 where i hosted them a servers and gamemodes.
+In 2020 I wanted to create something even bigger, I've wanted to create community where players could get to know each other and bond with one another for years like I did a long time ago, that's why I created NexusProject. I maintain in contact with Polish Youtubers like: Bladii, Mandzio, Chucken, Admiros, Plaga and we are all waiting for the premiere of s&box where they can promote this game in Poland like they did it in 2016-2018 when I hosted them servers for videos.
 
-We are now expanding the NexusProject network with people from modelling, C#, SFM animations. With these people we can do something more than normal gamemode.
+We are now expanding the NexusProject network with people working in modeling, C#, SFM animations. With these people we can do something more than normal gamemode.
